@@ -23,7 +23,7 @@
 [![MICROSOFT POWERPOINT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![MICROSOFT WORD](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoSS07&layout=compact)](https://github.com/brunoSS07/github-readme-stats)
+[![BrunoSS07 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoSS07&theme=dracula)](https://github.com/brunoSS07/github-readme-stats)
 
 
 ### GAMES
