@@ -27,3 +27,10 @@
 
 ### GAMES
 [![PLAYSTATION](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/en-us/)
+
+#### "A força não provém da capacidade física. Provém de uma vontade indomável."
+##### - Mahatma Gandhi
+<br>
+
+#### "O sucesso não está apenas na conquista, mas em todo o percurso"
+##### - Mahatma Gandhi
