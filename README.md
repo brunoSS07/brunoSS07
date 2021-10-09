@@ -1,5 +1,12 @@
 ### Olá! Eu sou Bruno da Silva Santos ✋
+#### 
+* Sou apaixonado por tecnologia, games, séries e animais. 💻 🎮 📽️ 🐶 🐕
+#### 
+* Estou em busca de um mundo cada vez mais acessível, diverso e socialmente justo através de tecnologia.
+* Atualmente estou na área de desenvolvimento no Itaú Unibanco após participação do Programa de Formação Tech 2021.
 <hr>
+
+### SOCIAL
 
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunoSS07)
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/CursoemV%C3%ADdeo/videos)
@@ -28,7 +35,10 @@
 
 ### GAMES
 [![PLAYSTATION](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/en-us/)
+
 <hr>
+
+### FRASES DE INSPIRAÇÃO
 
 #### "A força não provém da capacidade física. Provém de uma vontade indomável."
 ##### - Mahatma Gandhi
