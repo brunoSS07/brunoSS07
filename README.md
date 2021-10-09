@@ -45,3 +45,5 @@
 
 #### "O sucesso não está apenas na conquista, mas em todo o percurso"
 ##### - Mahatma Gandhi
+
+![Profile Views](https://img.shields.io/github/followers/brunoSS07.svg?style=social&label=Follow&maxAge=2592000)
