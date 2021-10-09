@@ -1,4 +1,5 @@
 ### Olá! Eu sou Bruno da Silva Santos ✋
+<hr>
 
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunoSS07)
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/CursoemV%C3%ADdeo/videos)
@@ -27,6 +28,7 @@
 
 ### GAMES
 [![PLAYSTATION](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/en-us/)
+<hr>
 
 #### "A força não provém da capacidade física. Provém de uma vontade indomável."
 ##### - Mahatma Gandhi
