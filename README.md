@@ -30,7 +30,6 @@
 
 #### "A força não provém da capacidade física. Provém de uma vontade indomável."
 ##### - Mahatma Gandhi
-<br>
 
 #### "O sucesso não está apenas na conquista, mas em todo o percurso"
 ##### - Mahatma Gandhi
