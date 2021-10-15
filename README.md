@@ -32,7 +32,8 @@
 
 [![BrunoSS07 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoSS07&theme=dracula)](https://github.com/brunoSS07/github-readme-stats)
 
-###IDEs/Editors
+### IDEs/Editors
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
