@@ -1,8 +1,8 @@
 ### Olá! Eu sou Bruno da Silva Santos ✋
 #### 
 * Sou apaixonado por tecnologia, games, séries e animais. 💻 🎮 📽️ 🐶 🐕
-* Estou em busca de um mundo cada vez mais acessível, diverso e socialmente justo através de tecnologia.
-* Atualmente estou na área de desenvolvimento no Itaú Unibanco após participação do Programa de Formação Tech 2021.
+* Estou em busca de um mundo cada vez mais acessível e socialmente justo através de tecnologia.
+* Atualmente estou na área de desenvolvimento após participação do Programa de Formação Tech Itaú 2021.
 <hr>
 
 ### SOCIAL
