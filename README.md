@@ -12,7 +12,7 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunosilva07/)
 [![CREDLY](https://img.shields.io/badge/Credly-0077B5?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/bruno-silva.4148d22a/badges)
 
-![Brunoss07 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoSS07&show_icons=true&theme=dracula)
+![Brunoss07 GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoSS07&show_icons=true&theme=dark)
 
 ### LANGUAGES/OTHERS
 
@@ -30,7 +30,7 @@
 [![MICROSOFT POWERPOINT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![MICROSOFT WORD](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
 
-[![BrunoSS07 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoSS07&theme=dracula)](https://github.com/brunoSS07/github-readme-stats)
+[![BrunoSS07 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoSS07&theme=dark)](https://github.com/brunoSS07/github-readme-stats)
 
 ### IDEs/Editors
 
